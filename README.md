@@ -88,7 +88,7 @@ It is better to know Python syntax, even tough we will be covering it in the cla
 Colaboratory is built on top of Jupyter Notebook. 
 
 - [basic_features_overview.ipynb](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
-- [welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb)
+- [welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb) 
 
 ## How You Will Do Assignments
 
